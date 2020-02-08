@@ -1,0 +1,96 @@
+/* --- Global Colors --- */
+
+/* Class */
+a.permission_2,.permission_2   {color: #FFFFFF;}            /* User */
+a.permission_3,.permission_3   {color: #bec2cc;}            /* Member */
+
+a.permission_4,.permission_4   {color: #4aac85;}            /* Power User */
+a.permission_5,.permission_5   {color: #5ecea6;}            /* Extreme User */
+a.permission_24,.permission_24 {color: #78dfaf;}            /* Elite */
+a.permission_7,.permission_7   {color: #97ecb0;}            /* Guru */
+a.permission_33,.permission_33 {color: #b7f8af;}            /* Master */
+a.permission_43,.permission_43 {color: #cdffae !important;} /* Overlord */
+
+a.permission_28,.permission_28 {color: #fbde6e;}            /* Encoder */
+a.permission_35,.permission_35 {color: #fbd567;}            /* Bot */
+a.permission_37,.permission_37 {color: #fac55f;}            /* Guest of Honor */
+a.permission_6,.permission_6   {color: #f9b35e;}            /* VIP */
+a.permission_9,.permission_9   {color: #f8a45d;}            /* Torrent Celebrity */
+a.permission_8,.permission_8   {color: #f7995b;}            /* Legend */
+
+a.permission_32,.permission_32 {color: #d71a41;}            /* FLS */
+a.permission_29,.permission_29 {color: #cf0e4a;}            /* TV Technician */
+a.permission_34,.permission_34 {color: #c40056;}            /* Designer */
+a.permission_30,.permission_30 {color: #be005d;}            /* Junior Coder */
+
+a.permission_11,.permission_11 {color: #4be0d5;}            /* Moderator */
+a.permission_14,.permission_14 {color: #41c7bd;}            /* Developer */
+a.permission_36,.permission_36 {color: #3cb7b5;}            /* Team Leader */
+a.permission_1,.permission_1   {color: #35a3ac;}            /* Administrator */
+a.permission_42,.permission_42 {color: #2e8fa3;}            /* Lead Developer */
+a.permission_15,.permission_15 {color: #29829d;}            /* SysOp */
+
+a.permission_31,.permission_31 {color: #3f3}                /* Unused */
+a.permission_26,.permission_26 {color: #4be0d5;}            /* Unused */
+a.permission_38,.permission_38 {color: #9933FF;}            /* Unused */
+a.permission_10,.permission_10 {color: #FFFF66;}            /* Unused */
+a.permission_12,.permission_12 {color: #CC0000;}            /* Unused */
+a.permission_13,.permission_13 {color: #996666;}            /* Unused */
+a.permission_22,.permission_22 {color: #FF7100;}            /* Unused */
+a.permission_25,.permission_25 {color: #660033;}            /* Unused */
+a.permission_27,.permission_27 {color: #00FFCC;}            /* Unused */
+
+/* Ratio */
+.r00 {color: #be015d;}
+.r01 {color: #c2105e;}
+.r02 {color: #c92860;}
+.r03 {color: #d04162;}
+.r04 {color: #d85f64;}
+.r05 {color: #e17e67;}
+.r06 {color: #e89a69;}
+.r07 {color: #f0b66b;}
+.r08 {color: #f6cd6d;}
+.r09 {color: #fbde6e;}
+.r10 {color: #4aac85;}
+.r20 {color: #69c291;}
+.r99 {color: #b6f7af;}
+
+/* Seeding, Leeching, Snatched */
+.tor_highlight_seed     {color: #93d4a2 !important;}
+.tor_highlight_leech    {color: #fbde6e !important;}
+.tor_highlight_snatch   {color: #d71a41 !important;}
+
+/* Release Format colors */
+.TS 	{color: #be005d;}
+.MP4    {color: #f7995b;}
+.MKV    {color: #d71a41;}
+.AVI    {color: #fbd567;}
+.M4V    {color: #ff6e00;}
+.MPEG   {color: #ff0050;}
+
+/* Release Type */
+.Internal        {color: #cdffae;}
+.None,.\0D\0D\0D {color: #cf0e4a;}
+.P2P             {color: #35a3ac;}
+.Scene           {color: #4be0d5;}
+.User            {color: #ffffff;}
+
+/* Torrent Table Link */
+a[title="View Series"]{
+    color: #92d4a0!important;
+    font-weight: 300!important;
+}
+a:hover[title="View Series"]{
+    color: #fff !important;
+    font-weight: 300!important;
+}
+
+a[title="View Torrent"]{
+    font-weight: 300!important;
+}
+a:hover[title="View Torrent"]{
+    color: #92d4a0!important;
+    font-weight: 300!important;
+}
+
+/* --- END GLOBAL COLORS --- */
