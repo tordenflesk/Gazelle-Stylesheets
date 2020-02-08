@@ -3,10 +3,12 @@
 Design: apopagasm
 CSS: Exanurous
 Version: 1.1;
-Bug Reports: forums.php?action=viewthread&threadid=16899;
+Bug Reports: forums.php?action=viewthread&threadid=16899
+Profile: a-hd.me/user.php?id=45243
 Style derived from Gazelle Postmod and BTN SMPTE
 *********************************************************/
 
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
-@import url(https://gitlab.com/SummerRainbowz/Beluga-AHD/raw/master/layoutbeta.css);
-@import url(https://gitlab.com/SummerRainbowz/Beluga-AHD/raw/master/original.css);
+@import url(layoutbeta.css);
+@import url(original.css);
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
