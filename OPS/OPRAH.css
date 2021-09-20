@@ -439,7 +439,7 @@ table.box, table.box2 {
 }
 
 .last_read :before {
-    content: '➜';
+    content: 'âžœ';
     display: inline-block
 }
 
@@ -990,7 +990,7 @@ table.box, table.box2 {
 }
 
 .hide_torrents > a:after {
-    content: "−"
+    content: "âˆ’"
 }
 
 .group_torrent .edition_info {
